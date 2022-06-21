@@ -63,7 +63,7 @@
         <jwt.version>0.9.1</jwt.version>
         <fastjson.version>1.2.54</fastjson.version>
 
-        <mysql.version>5.1.47</mysql.version>
+        <mysql.version>8.0.28</mysql.version>
         <mybatis.plus.version>3.1.0</mybatis.plus.version>
         <druid.version>1.1.16</druid.version>
         <dynamic.datasource.version>2.5.3</dynamic.datasource.version>
